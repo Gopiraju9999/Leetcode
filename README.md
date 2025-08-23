@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopiraju9999/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
@@ -44,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopiraju9999/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopiraju9999/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
