@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gopiraju9999/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Gopiraju9999/Leetcode/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gopiraju9999/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Gopiraju9999/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Gopiraju9999/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gopiraju9999/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
