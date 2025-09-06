@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Gopiraju9999/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
