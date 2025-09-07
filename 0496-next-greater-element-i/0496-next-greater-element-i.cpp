@@ -5,12 +5,16 @@ public:
         int n1 = nums1.size();
         int n2 = nums2.size();
         unordered_map<int,int>mpp;
-        for(int i = n2-1; i >= 0; --i){
-            while(!st.empty() && nums2[i] >= st.top()){
+        for(int num : nums2){
+            while(!st.empty() && num > st.top()){
+                mpp[st.top()] = num;
                 st.pop(); // remove the last element from the stack
             }
-            mpp[nums2[i]] = st.empty() ? -1 : st.top();
-            st.push(nums2[i]);
+            st.push(num);
+        }
+        while(!st.empty()){
+            mpp[st.top()] = -1;
+            st.pop();
         }
         vector<int>res;
         for(int num : nums1){
