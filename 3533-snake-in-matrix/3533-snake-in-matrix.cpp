@@ -8,6 +8,7 @@ public:
         else if(cmd == "LEFT") j -= 1;
         else if(cmd == "RIGHT") j +=1;
        } 
-       return (i*n) + j; // selects the current stopped position in 2D matrix
+       int ans = (i*n)+j;
+       return ans; // selects the current stopped position in 2D matrix
     }
 };
