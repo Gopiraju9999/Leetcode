@@ -15,7 +15,7 @@ public:
             st.pop();
             k--;
         }
-        if(st.empty()) return "0";
+        if(st.empty()) return "0"; // Base case for the stack
 
         string res = "";
         // Construct the result from the stack
@@ -30,7 +30,7 @@ public:
         // The result is in reverse order. so, reverse it!!
         reverse(res.begin(), res.end());
 
-        if(res.empty()) return "0";
+        if(res.empty()) return "0"; // Base case for result
 
         return res;
     }
