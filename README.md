@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gopiraju9999/Leetcode/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Gopiraju9999/Leetcode/tree/master/0078-subsets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gopiraju9999/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Gopiraju9999/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Gopiraju9999/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopiraju9999/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Gopiraju9999/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Gopiraju9999/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Gopiraju9999/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Gopiraju9999/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Gopiraju9999/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Gopiraju9999/Leetcode/tree/master/0496-next-greater-element-i) |
