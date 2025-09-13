@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gopiraju9999/Leetcode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gopiraju9999/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopiraju9999/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Gopiraju9999/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gopiraju9999/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gopiraju9999/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Gopiraju9999/Leetcode/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gopiraju9999/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Gopiraju9999/Leetcode/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
