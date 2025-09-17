@@ -3,7 +3,7 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
       vector<int>current;
       vector<vector<int>>result;
-
+      sort(candidates.begin(), candidates.end());
       Backtrack(candidates, target, 0, current, result);
       return result;   
     }
