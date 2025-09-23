@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gopiraju9999/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Gopiraju9999/Leetcode/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Linked List
 |  |
