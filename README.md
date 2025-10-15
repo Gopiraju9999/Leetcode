@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Gopiraju9999/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Gopiraju9999/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Gopiraju9999/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gopiraju9999/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Gopiraju9999/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
