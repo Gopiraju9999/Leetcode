@@ -13,20 +13,10 @@ class Solution {
 public:
     int maxDepth(TreeNode* root) {
         if(root == nullptr) return 0;
-        queue<TreeNode*>q;
-        q.push(root);
-        int depth = 0;
- // Use BFS, check level by level, if level is completed this loop is completed. 
-        while(!q.empty()){ // 
-            int size = q.size();
-            while(size--){
-                TreeNode* node = q.front();
-                q.pop();
-                if(node->left != nullptr) q.push(node->left);// either this
-                if(node->right != nullptr) q.push(node->right); // or this
-            }
-            depth++; // Then, increment the depth 
-        }
-        return depth;
+        
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
+
+        return max(left, right) + 1;
     }
 };
