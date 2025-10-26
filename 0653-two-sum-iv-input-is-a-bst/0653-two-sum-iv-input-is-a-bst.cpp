@@ -11,17 +11,24 @@
  */
 class Solution {
 public:
-    unordered_set<int>st;
     bool findTarget(TreeNode* root, int k) {
-        return DFS(root,k);
-    }
-    bool DFS(TreeNode* node, int k){
-        if(!node) return false;
+        vector<int>ans;
+        DFS(root, ans);
 
-        if(st.count(k - node->val)){
-            return true;
+        int left = 0, right = ans.size()-1;
+        while(left < right){
+            int sum = ans[left] + ans[right];
+            if(sum == k) return true;
+            else if(sum > k) right--;
+            else left++;
         }
-        st.insert(node->val);
-        return DFS(node->left, k) || DFS(node->right, k);
+        return false;
+    }
+    void DFS(TreeNode* node, vector<int>& ans){
+        if(!node) return;
+
+        DFS(node->left, ans);
+        ans.push_back(node->val);
+        DFS(node->right, ans);
     }
 };
