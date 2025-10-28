@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gopiraju9999/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Gopiraju9999/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gopiraju9999/Leetcode/tree/master/0062-unique-paths) |
+| [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gopiraju9999/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Gopiraju9999/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gopiraju9999/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Gopiraju9999/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopiraju9999/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gopiraju9999/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
