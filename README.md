@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gopiraju9999/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gopiraju9999/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gopiraju9999/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Gopiraju9999/Leetcode/tree/master/0402-remove-k-digits) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Design
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gopiraju9999/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
