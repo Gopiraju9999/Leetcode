@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gopiraju9999/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Gopiraju9999/Leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Gopiraju9999/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0090-subsets-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Gopiraju9999/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gopiraju9999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Gopiraju9999/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Gopiraju9999/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopiraju9999/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gopiraju9999/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gopiraju9999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Gopiraju9999/Leetcode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Gopiraju9999/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Gopiraju9999/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gopiraju9999/Leetcode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
