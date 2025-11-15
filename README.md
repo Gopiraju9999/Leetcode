@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gopiraju9999/Leetcode/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0937-online-stock-span](https://github.com/Gopiraju9999/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gopiraju9999/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gopiraju9999/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gopiraju9999/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
