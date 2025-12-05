@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gopiraju9999/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Gopiraju9999/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopiraju9999/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Gopiraju9999/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Gopiraju9999/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Gopiraju9999/Leetcode/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/Gopiraju9999/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gopiraju9999/Leetcode/tree/master/0733-flood-fill) |
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Backtracking
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Gopiraju9999/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gopiraju9999/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gopiraju9999/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gopiraju9999/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Gopiraju9999/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gopiraju9999/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
