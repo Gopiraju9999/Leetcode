@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Gopiraju9999/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gopiraju9999/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gopiraju9999/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gopiraju9999/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Gopiraju9999/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gopiraju9999/Leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/Gopiraju9999/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Binary Search Tree
 |  |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Sorting
 |  |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gopiraju9999/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Gopiraju9999/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
