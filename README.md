@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 ## Backtracking
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
