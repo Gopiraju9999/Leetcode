@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
