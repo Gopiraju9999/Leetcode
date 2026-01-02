@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopiraju9999/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Gopiraju9999/Leetcode/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopiraju9999/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Gopiraju9999/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0213-house-robber-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gopiraju9999/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopiraju9999/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopiraju9999/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gopiraju9999/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopiraju9999/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Gopiraju9999/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/Gopiraju9999/Leetcode/tree/master/0456-132-pattern) |
 | [0907-koko-eating-bananas](https://github.com/Gopiraju9999/Leetcode/tree/master/0907-koko-eating-bananas) |
