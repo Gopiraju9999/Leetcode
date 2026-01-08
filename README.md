@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gopiraju9999/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gopiraju9999/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gopiraju9999/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
@@ -497,4 +500,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Gopiraju9999/Leetcode/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Gopiraju9999/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gopiraju9999/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
