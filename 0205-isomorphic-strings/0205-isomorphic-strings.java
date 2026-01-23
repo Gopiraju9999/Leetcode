@@ -1,5 +1,7 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
+        if(s.length() > t.length() || s.length() < t.length()) return false;
+        
         Map<Character, Character> mpp1 = new HashMap<>();
         Map<Character, Character> mpp2 = new HashMap<>();
 
