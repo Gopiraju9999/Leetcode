@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1021-remove-outermost-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0937-online-stock-span](https://github.com/Gopiraju9999/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gopiraju9999/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
