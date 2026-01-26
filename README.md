@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Gopiraju9999/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gopiraju9999/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Bucket Sort
 |  |
 | ------- |
