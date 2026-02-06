@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Gopiraju9999/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Gopiraju9999/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopiraju9999/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gopiraju9999/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0525-contiguous-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Queue
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Gopiraju9999/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/Gopiraju9999/Leetcode/tree/master/0456-132-pattern) |
 | [0907-koko-eating-bananas](https://github.com/Gopiraju9999/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
