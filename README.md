@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3379-transformed-array) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0567-permutation-in-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gopiraju9999/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
 | ------- |
