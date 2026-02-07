@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopiraju9999/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Gopiraju9999/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Gopiraju9999/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Gopiraju9999/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Gopiraju9999/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/Gopiraju9999/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gopiraju9999/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Gopiraju9999/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
