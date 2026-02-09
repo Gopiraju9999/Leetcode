@@ -15,7 +15,7 @@
  */
 class Solution {
     // Performing Inorder operations..
-    private void Inorder(TreeNode node, List<Integer>nodes){
+    public void Inorder(TreeNode node, List<Integer>nodes){
         if(node == null) return;
         Inorder(node.left, nodes);
         nodes.add(node.val);
@@ -23,7 +23,7 @@ class Solution {
     }
 
     // Function gets the mid element, and make tree as left and right..
-    private TreeNode buildBST(int left, int right, List<Integer>nodes){
+    public TreeNode buildBST(int left, int right, List<Integer>nodes){
         if(left > right) return null;
 
         int mid = (left + right)/2;
