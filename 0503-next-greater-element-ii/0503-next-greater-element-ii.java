@@ -12,7 +12,8 @@ class Solution {
                 int index = st.pop();
                 result[index] = nums[curr_idx];
             }
-            st.push(curr_idx);
+            if(i < n)
+                st.push(curr_idx);
         }
         return result;
     }
