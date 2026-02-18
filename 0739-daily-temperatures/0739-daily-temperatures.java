@@ -7,8 +7,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             while(!st.isEmpty() && temperatures[i] > temperatures[st.peek()]){
-                int prev_idx = st.peek();
-                st.pop();
+                int prev_idx = st.pop();
                 result[prev_idx] = i - prev_idx;
             }
             st.push(i);
