@@ -13,10 +13,10 @@ class Solution {
             }
         }
 
-        StringBuilder result = new StringBuilder();
-        while(!st.isEmpty()){
-            result.append(st.pop());
+        StringBuilder result = new StringBuilder("");
+        for(char ch : st){
+            result.append(ch);
         }
-        return result.reverse().toString();
+        return result.toString();
     }
 }
