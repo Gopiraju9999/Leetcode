@@ -11,12 +11,12 @@ class Solution {
            if(s.charAt(i) == '('){
                 st.push(i);
            }else{
-                st.pop();
-
-                if(st.isEmpty()){
-                    st.push(i);
-                }else{          // "i- st.peek()" is just like the "j-i+1" to calculate length
+                
+                if(s.charAt(i) == ')' && st.size() > 1 && s.charAt(st.peek()) == '('){
+                    st.pop();
                     max_len = Math.max(max_len, i - st.peek());
+                }else{
+                    st.push(i);
                 }
            }
         }
