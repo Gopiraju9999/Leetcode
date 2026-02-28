@@ -2,7 +2,7 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int[] countP = new int[26]; // Standard no need to change the size..
         int[] countS = new int[26];
-        List<Integer>result = new java.util.ArrayList<>();
+        List<Integer>result = new ArrayList<>();
 
         for(char ch : p.toCharArray()){ // Adding elements frequency
             countP[ch - 'a']++;
