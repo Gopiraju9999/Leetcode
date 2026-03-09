@@ -2,7 +2,7 @@ class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         int n = grid.length;
 
-        // Immpossible case..
+        // Impossible case..
         if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
 
         // Setting directions on 8 sides of cell..
@@ -41,5 +41,5 @@ class Solution {
             path_len++;
         }
         return -1;
-    }
+    } 
 }
