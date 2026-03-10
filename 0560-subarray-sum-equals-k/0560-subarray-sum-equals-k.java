@@ -1,18 +1,18 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int n = nums.length;
-        int subarray_count = 0;
+        Map<Integer, Integer>mpp = new HashMap<>();
+        mpp.put(0,1);
 
-        for(int i = 0; i < n; i++){
-            int sum = 0;
+        int count = 0, prefix_sum = 0;
 
-            for(int j = i; j < n; j++){
-                sum += nums[j];
-                if(sum == k){
-                    subarray_count++;
-                }
+        for(int num : nums){
+            prefix_sum += num;
+
+            if(mpp.containsKey(prefix_sum - k)){ // Checks value present or not??
+                count += mpp.get(prefix_sum - k); // get only gets the value {key, value}
             }
+            mpp.put(prefix_sum, mpp.getOrDefault(prefix_sum, 0)+1); // else add into map..
         }
-        return subarray_count;
+        return count;
     }
 }
