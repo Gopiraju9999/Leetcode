@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Gopiraju9999/Leetcode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/Gopiraju9999/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Gopiraju9999/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gopiraju9999/Leetcode/tree/master/0739-daily-temperatures) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gopiraju9999/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Gopiraju9999/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
