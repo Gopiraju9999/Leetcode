@@ -5,7 +5,6 @@ class Solution {
         StringBuilder sb = new StringBuilder(s);
         sb.reverse();
         s = sb.toString();
-
         String ans = "";
 
         for(int i = 0; i < n; i++){
@@ -19,9 +18,9 @@ class Solution {
             StringBuilder w = new StringBuilder(word);
             w.reverse();
 
-            if(word.length() > 0)
+            if(word.length() > 0){
                 ans += " "+w.toString();
-
+            }
         }
         return ans.substring(1);
     }
