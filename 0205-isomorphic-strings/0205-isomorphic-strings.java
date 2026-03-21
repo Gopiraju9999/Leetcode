@@ -9,12 +9,14 @@ class Solution {
             char c1 = s.charAt(i);
             char c2 = t.charAt(i);
 
+            // The character exist. But, that frequency doesn't exist
             if(mpp1.containsKey(c1)){
                 if(mpp1.get(c1) != c2) return false;
             }else{
                 mpp1.put(c1, c2);
             }
 
+            // Character exist but not that much of frequency..
             if(mpp2.containsKey(c2)){
                 if(mpp2.get(c2) != c1) return false;
             }else{
