@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gopiraju9999/Leetcode/tree/master/0046-permutations) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopiraju9999/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gopiraju9999/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Gopiraju9999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gopiraju9999/Leetcode/tree/master/0061-rotate-list) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Gopiraju9999/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gopiraju9999/Leetcode/tree/master/0242-valid-anagram) |
