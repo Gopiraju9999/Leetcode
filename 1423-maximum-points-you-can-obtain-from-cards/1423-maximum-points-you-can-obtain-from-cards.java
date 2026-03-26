@@ -15,7 +15,7 @@ class Solution {
         }
 
         int right_sum = 0, max_sum = left_sum;
-        for(int j = 1; j <= k; j++){
+        for(int j = 1; j <= k; j++){        // Parallely, shrink leftside.. expand rightside..
             left_sum -= cardPoints[k - j];
             right_sum += cardPoints[n - j];
             max_sum = Math.max(max_sum, left_sum + right_sum);
