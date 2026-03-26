@@ -1,24 +1,23 @@
 class Solution {
     public int characterReplacement(String s, int k) {
+        int n = s.length();
         int[] freq = new int[26];
-        int max_freq = 0, max_window = 0;
-        int i = 0;
+        int i = 0, max_freq = 0, max_win = 0;
 
-        for(int j = 0; j < s.length(); j++){
+        for(int j = 0; j < n; j++){
             char ch = s.charAt(j);
 
-            freq[ch - 'A']++;       // Add into the array & increment the count of character..
+            freq[ch - 'A']++;
             max_freq = Math.max(max_freq, freq[ch - 'A']);
-            int window_len = j-i+1;
+            //int win_len = j-i+1;
 
-            // Beyond the condition.. Shrink the window..
-            if(window_len - max_freq > k){
+            // Shrink the window...
+            if((j-i+1) - max_freq > k){
                 freq[s.charAt(i) - 'A']--;
                 i++;
             }
-            window_len = j-i+1;
-            max_window = Math.max(max_window, window_len);
+            max_win = Math.max(max_win, j-i+1);
         }
-        return max_window;
+        return max_win;
     }
 }
