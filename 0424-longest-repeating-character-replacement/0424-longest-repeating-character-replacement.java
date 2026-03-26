@@ -12,7 +12,7 @@ class Solution {
             //int win_len = j-i+1;
 
             // Shrink the window...
-            if((j-i+1) - max_freq > k){
+            while((j-i+1) - max_freq > k){
                 freq[s.charAt(i) - 'A']--;
                 i++;
             }
