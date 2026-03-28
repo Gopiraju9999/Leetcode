@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Gopiraju9999/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopiraju9999/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Gopiraju9999/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopiraju9999/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gopiraju9999/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopiraju9999/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gopiraju9999/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3719-longest-balanced-subarray-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
