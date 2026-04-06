@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Gopiraju9999/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Gopiraju9999/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gopiraju9999/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Gopiraju9999/Leetcode/tree/master/0994-rotting-oranges) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gopiraju9999/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gopiraju9999/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/Gopiraju9999/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Ordered Set
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Gopiraju9999/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gopiraju9999/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gopiraju9999/Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -721,4 +726,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Gopiraju9999/Leetcode/tree/master/0796-rotate-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
