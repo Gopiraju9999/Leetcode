@@ -5,7 +5,9 @@ class Solution {
 
         for(int i = 0; i < m; i++){
             for(int j = i; j < m; j++){
-                String sub = s.substring(i, j+1);
+                String sub = s.substring(i, j+1);  // Converting into string..
+
+                // current string is greater than previous string..
                 if(Palindrome(sub) && sub.length() > result.length()){
                     result = sub;
                 }
