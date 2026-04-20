@@ -12,6 +12,6 @@ class Solution {
         return count;
     }
     private boolean isVowel(char ch){
-        return "aeiouAEIOU".indexOf(ch) != -1;
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
     }
 }
