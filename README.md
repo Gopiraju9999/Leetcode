@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gopiraju9999/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gopiraju9999/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/Gopiraju9999/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Linked List
@@ -331,10 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Gopiraju9999/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Gopiraju9999/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gopiraju9999/Leetcode/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
