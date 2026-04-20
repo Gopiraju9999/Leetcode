@@ -1,12 +1,12 @@
 class Solution {
     public long countVowels(String word) {
-        int n = word.length();
+        int len = word.length();
         long count = 0;
 
-        for(int i = 0; i < n; i++){
-            char ch = word.charAt(i);
+        for(int pos = 0; pos < len; pos++){
+            char ch = word.charAt(pos);
             if(isVowel(ch)){
-                count += (long)(i + 1) * (n - i);
+                count += (long)(pos + 1) * (len - pos);
             }
         }
         return count;
