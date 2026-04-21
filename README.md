@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gopiraju9999/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Gopiraju9999/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gopiraju9999/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopiraju9999/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/Gopiraju9999/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Gopiraju9999/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Design
 |  |
