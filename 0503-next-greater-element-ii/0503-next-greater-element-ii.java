@@ -4,16 +4,17 @@ class Solution {
         Stack<Integer>st = new Stack<>();
         int[] result = new int[n];
         Arrays.fill(result, -1);
-
+        
         for(int i = 0; i < 2*n; i++){
-            int curr_idx = i % n;     // No need to create double array. 
+            int curr_idx = i % n;
 
             while(!st.isEmpty() && nums[curr_idx] > nums[st.peek()]){
-                int index = st.pop();
-                result[index] = nums[curr_idx];
+                int idx = st.pop();
+                result[idx] = nums[curr_idx];
             }
-            if(i < n)
+            if(i < n){
                 st.push(curr_idx);
+            }
         }
         return result;
     }
