@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2404-most-frequent-even-element](https://github.com/Gopiraju9999/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gopiraju9999/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/Gopiraju9999/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Linked List
 |  |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2404-most-frequent-even-element](https://github.com/Gopiraju9999/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
