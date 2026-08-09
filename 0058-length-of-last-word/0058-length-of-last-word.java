@@ -1,17 +1,7 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        int i = s.length()-1;
-        int count = 0;
-        
-        // Trapping for spaces..
-        while(i >= 0 && s.charAt(i) == ' '){
-            i--;
-        }
+        String[] arr = s.trim().split("\\s+");
 
-        while(i >= 0 && s.charAt(i) != ' '){
-            count++;
-            i--;
-        }
-        return count;
+        return arr[arr.length-1].length();
     }
 }
