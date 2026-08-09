@@ -1,15 +1,11 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        String result = "";
-        String[] arr = s.trim().split("\\s+");
+        StringBuilder ans = new StringBuilder();
 
+        String[] str = s.split(" "); // Splits the string having space..
         for(int i = 0; i < k; i++){
-            result += arr[i];
-
-            if(i != k-1){
-                result += " ";
-            }
+            ans.append(str[i]).append(" "); 
         }
-        return result;
+        return ans.toString().trim();  // way to ignore spaces at front & back
     }
 }
