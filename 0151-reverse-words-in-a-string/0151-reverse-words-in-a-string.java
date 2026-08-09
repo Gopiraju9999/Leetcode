@@ -1,27 +1,17 @@
 class Solution {
     public String reverseWords(String s) {
-        int n = s.length();
+        String[] arr = s.trim().split("\\s+");  // Removes the starting and ending spaces..
 
-        StringBuilder sb = new StringBuilder(s);
-        sb.reverse();
-        s = sb.toString();
-        String ans = "";
+        int left = 0, right = arr.length - 1;
 
-        for(int i = 0; i < n; i++){
-            String word = "";
+        while(left < right){
+            String temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
 
-            while(i < n && s.charAt(i) != ' '){
-                word += s.charAt(i);
-                i++;
-            }
-
-            StringBuilder w = new StringBuilder(word);
-            w.reverse();
-
-            if(word.length() > 0){
-                ans += " "+w.toString();
-            }
+            left++;
+            right--;
         }
-        return ans.substring(1);
+        return String.join(" ", arr);   
     }
 }
