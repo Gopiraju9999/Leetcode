@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int[] freq = new int[256];
-        int i = 0, maxi = 0;
+        int maxi = 0, i = 0;
 
         for(int j = 0; j < n; j++){
             char ch = s.charAt(j);
