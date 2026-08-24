@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gopiraju9999/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Gopiraju9999/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3379-transformed-array) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gopiraju9999/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gopiraju9999/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gopiraju9999/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gopiraju9999/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Gopiraju9999/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gopiraju9999/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gopiraju9999/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gopiraju9999/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Gopiraju9999/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Gopiraju9999/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gopiraju9999/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gopiraju9999/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Gopiraju9999/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
