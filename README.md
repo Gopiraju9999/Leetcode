@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Gopiraju9999/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Gopiraju9999/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Gopiraju9999/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gopiraju9999/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Gopiraju9999/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gopiraju9999/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Gopiraju9999/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Gopiraju9999/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Gopiraju9999/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Gopiraju9999/Leetcode/tree/master/1905-count-sub-islands) |
