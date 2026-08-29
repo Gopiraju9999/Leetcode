@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Gopiraju9999/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Gopiraju9999/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Gopiraju9999/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Gopiraju9999/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Gopiraju9999/Leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Gopiraju9999/Leetcode/tree/master/0724-find-pivot-index) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Gopiraju9999/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Gopiraju9999/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Gopiraju9999/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gopiraju9999/Leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Gopiraju9999/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Gopiraju9999/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gopiraju9999/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gopiraju9999/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
