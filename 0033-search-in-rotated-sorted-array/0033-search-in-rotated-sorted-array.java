@@ -5,22 +5,30 @@ class Solution {
 
         while(low <= high){
             int mid = low + (high - low) / 2;
-            // If my target found, simply return it..
+
             if(nums[mid] == target){
                 return mid;
             }
-            // compare the elements in array. Is it left rotated or right??
-            if(nums[low] <= nums[mid]){ // It justifies, which part rotated, Left Sorted/rotated
+
+            // Important concept..
+            // Check the part(low to mid) is sorted or not
+            // If sorted then check only between that range
+            if(nums[low] <= nums[mid]){
+                // Checking in that range[low -> mid], if yes move high backward
                 if(nums[low] <= target && target < nums[mid]){
                     high = mid - 1;
                 }else{
                     low = mid + 1;
                 }
-            }else{      // Another option is Right Sorted/rotated..
+            }
+            // After checking above condition low moves forward.
+            // Now, again check the part is sorted or not..
+            // check If between range[mid -> high]
+            else{
                 if(nums[mid] < target && target <= nums[high]){
                     low = mid + 1;
                 }else{
-                    high = mid -1;
+                    high = mid - 1;
                 }
             }
         }
