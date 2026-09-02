@@ -14,8 +14,15 @@ class Solution {
         return subarrays;
     }
     public int splitArray(int[] nums, int k) {
-        int low = Arrays.stream(nums).max().getAsInt();
-        int high = Arrays.stream(nums).sum();
+        int low = 0;
+        int high = 0;
+
+        // "low" always keep tracking maximum element in the array
+        // "high" keep adding the element for a sum..
+        for(int num : nums){
+            low = Math.max(low, num);
+            high += num;
+        }
 
         while(low < high){
             int mid = low + (high - low) / 2;
