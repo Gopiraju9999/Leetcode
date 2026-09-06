@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Gopiraju9999/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2404-most-frequent-even-element](https://github.com/Gopiraju9999/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Gopiraju9999/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gopiraju9999/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopiraju9999/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gopiraju9999/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gopiraju9999/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Gopiraju9999/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/Gopiraju9999/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Gopiraju9999/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Gopiraju9999/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3110-score-of-a-string](https://github.com/Gopiraju9999/Leetcode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
