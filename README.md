@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Gopiraju9999/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/Gopiraju9999/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Gopiraju9999/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3110-score-of-a-string](https://github.com/Gopiraju9999/Leetcode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gopiraju9999/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3533-snake-in-matrix](https://github.com/Gopiraju9999/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Linked List
