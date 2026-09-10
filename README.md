@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Gopiraju9999/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Gopiraju9999/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Gopiraju9999/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Gopiraju9999/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
