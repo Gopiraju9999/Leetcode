@@ -15,18 +15,18 @@ class Solution {
         return max_area;
     }
     private int DFS(int[][] grid, int i, int j, int m, int n){
-        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) return 0;
+        if(i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == 0) return 0;
 
-        grid[i][j] = 0; // Make it as visited
+        grid[i][j] = 0;  // Make that area cell into 0, for good calculation
 
-        int area = 1;
+        int  area = 1;
 
-        // For every DFS call do increase..
-        area += DFS(grid, i-1, j, m, n);
+        // Way to calculate the area with previous calculation..
         area += DFS(grid, i+1, j, m, n);
-        area += DFS(grid, i, j-1, m, n);
+        area += DFS(grid, i-1, j, m, n);
         area += DFS(grid, i, j+1, m, n);
+        area += DFS(grid, i, j-1, m, n);
 
-        return area;
+        return area;     // This calculated area will undergoes upper func area
     }
 }
