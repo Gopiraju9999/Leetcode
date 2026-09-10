@@ -1,25 +1,25 @@
 class Solution {
 public:
-    void DFS(int city, vector<vector<int>>& isConnected, unordered_set<int>& visited){
-        visited.insert(city);
-        for(int curr = 0; curr < isConnected[city].size(); curr++){
-            int connected = isConnected[city][curr];
-            if(connected == 1 && visited.find(curr) == visited.end()){
-                DFS(curr, isConnected, visited);
-            }
-        }
-    }
-    // Traversal Function for DFS. It traverses the vertices, if it ends cnt++ & exit
     int findCircleNum(vector<vector<int>>& isConnected) {
-        unordered_set<int>visited;
+        int n = isConnected.size();
+        vector<bool>visited(n, false);
         int count = 0;
-
-        for(int i = 0; i < isConnected.size(); i++){
-            if(visited.find(i) == visited.end(i)){
+        
+        for(int i = 0; i < n; i++){
+            if(!visited[i]){
                 DFS(i, isConnected, visited);
                 count++;
             }
         }
         return count;
+    }
+    void DFS(int city, vector<vector<int>> &isConnected, vector<bool>& visited){
+        visited[city] = true;
+
+        for(int curr = 0; curr < isConnected[city].size(); curr++){
+            if(isConnected[city][curr] == 1 && !visited[curr]){
+                DFS(curr, isConnected, visited);
+            }
+        }
     }
 };
