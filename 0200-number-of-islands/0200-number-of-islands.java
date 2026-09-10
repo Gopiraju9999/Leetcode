@@ -8,20 +8,22 @@ class Solution {
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == '1'){
                     count++;
-                    DFS(grid, i, j, m, n); // Run DFS call for another 1's as island
-                } 
+                    DFS(i, j, m, n, grid);
+                }
             }
         }
         return count;
     }
+    private void DFS(int i, int j, int m, int n, char[][] grid){
+        if(i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == '0') return;
 
-    private void DFS(char[][] grid, int i, int j, int m, int n){
-        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == '0') return;
+        grid[i][j] = '0'; // Mark as visited
 
-        grid[i][j] = '0';   // Mark it as visited..
-        DFS(grid, i-1, j, m, n);
-        DFS(grid, i+1, j, m, n);
-        DFS(grid, i, j-1, m, n);
-        DFS(grid, i, j+1, m, n);
+        // Now, make 4 moves (left, right, up, down)
+        // These 4 moves checks the islands..
+        DFS(i+1, j, m, n, grid);
+        DFS(i-1, j, m, n, grid);
+        DFS(i, j+1, m, n, grid);
+        DFS(i, j-1, m, n, grid);
     }
 }
