@@ -3,20 +3,19 @@ class Solution {
         int m = isWater.length;
         int n = isWater[0].length;
         Queue<int[]>q = new LinkedList<>();
-        boolean[][] visited = new boolean[m][n];
-        int[][] height = new int[m][n];
 
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(isWater[i][j] == 1){
+                    isWater[i][j] = 0;
                     q.offer(new int[]{i, j});
-                    visited[i][j] = true;
+                }else{
+                    isWater[i][j] = -1;
                 }
             }
         }
 
         int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
-        int level = 0;
 
         while(!q.isEmpty()){
             int size = q.size();
@@ -29,16 +28,14 @@ class Solution {
                     int new_i = i + dir[0];
                     int new_j = j + dir[1];
 
-                    if(isValid(new_i, new_j, m, n) && !visited[new_i][new_j]){
+                    if(isValid(new_i, new_j, m, n) && isWater[new_i][new_j] == -1){
+                        isWater[new_i][new_j] = isWater[i][j] + 1;;
                         q.offer(new int[]{new_i, new_j});
-                        height[new_i][new_j] = level + 1;;
-                        visited[new_i][new_j] = true;
                     }
                 }
             }
-            level++;
         }
-        return height;
+        return isWater;
     }
     private boolean isValid(int i, int j, int m, int n){
         return (i >= 0 && i < m && j >= 0 && j < n);
