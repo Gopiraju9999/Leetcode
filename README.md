@@ -921,4 +921,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gopiraju9999/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Gopiraju9999/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
