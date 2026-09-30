@@ -5,18 +5,23 @@ class Solution {
 
     private int Atmost(int[] nums, int k){
         int n = nums.length;
+        int i = 0, oddnum_count = 0, subarray_count = 0;
 
-        int i = 0, res = 0;
         for(int j = 0; j < n; j++){
-            if(nums[j] % 2 == 1) k--;
 
-            while(k < 0){
-                if(nums[i] % 2 == 1) k++;
+            if(nums[j] % 2 == 1){
+                oddnum_count++;
+            }
+
+            while(oddnum_count > k){
+
+                if(nums[i] % 2 == 1){
+                    oddnum_count--;
+                }
                 i++;
             }
-            
-            res += (j-i+1);
+            subarray_count += j-i+1;
         }
-        return res;
+        return subarray_count;
     }
 }
