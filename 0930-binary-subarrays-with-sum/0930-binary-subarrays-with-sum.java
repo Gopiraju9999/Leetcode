@@ -7,18 +7,18 @@ class Solution {
 
         if(goal < 0) return 0;
 
-        int i = 0, j = 0,count = 0, res = 0;
-        while(j < n){
-            count += nums[j];
+        int i = 0, sum = 0, subarray_count = 0;
 
-            while(count > goal){
-                count -= nums[i];
+        for(int j = 0; j < n; j++){
+            sum += nums[j];
+
+            while(sum > goal){
+                sum -= nums[i];
                 i++;
             }
-            res += (j-i+1);
-            j++;
+            subarray_count += (j-i+1);
         }
         
-        return res;
+        return subarray_count;
     }
 }
