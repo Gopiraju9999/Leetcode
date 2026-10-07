@@ -6,23 +6,30 @@ class Solution {
         int[] row = new int[m];
         int[] column = new int[n];
 
-        // This nested loop job is make the respective R & C == 0 => "1"
+        // Check each and every cell in a matrix, if the cell equals to "0"
+        // Mark it the respective row number & column number as "1"
+        // The marking will helps us to "Set Matrix Zero"
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(matrix[i][j] == 0){  // If the cell [i][j] == 0.Then, change R & C with "1".
+                if(matrix[i][j] == 0){
                     row[i] = 1;
                     column[j] = 1;
                 }
             }
         }
 
-        // If the R || C anyone is having "1". Then, the entire row or column make "0". 
+        // Now, we have to check the row & column arrays has "1"
+        // EX:- row 0 1 0,    column 0 1 0
+        // Here, we have to make the entire row & column "0" where the array index having "0"
+
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
+                // It means whether the row or column has "1"
+                // Make that respective row or column as "0"
                 if(row[i] == 1 || column[j] == 1){
                     matrix[i][j] = 0;
                 }
             }
-        }
+        } 
     }
 }
